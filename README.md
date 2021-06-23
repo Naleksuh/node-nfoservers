@@ -8,6 +8,6 @@ Methods so far:
 
 `NFO_RestartVDS(<email>, <password>, <servicename>);`
 
-`NFO_ReinstallVDS(<email>, <password>, <servicename>);`
+`NFO_ReinstallVDS(<email>, <password>, <servicename>, <newos>);`
 
 `NFO_ChangeVNCPassword(<email>, <password>, <servicename>);`
